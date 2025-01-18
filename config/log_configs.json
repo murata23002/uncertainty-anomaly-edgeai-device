@@ -1,0 +1,12 @@
+{
+    "_comments": {
+        "level": "Log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)",
+        "file": "Path to the log file",
+        "encoding": "log file encding"
+    },
+    "log": {
+        "level": "DEBUG",
+        "file": "logs/log.txt",
+        "encoding": "UTF-8"
+    }
+}

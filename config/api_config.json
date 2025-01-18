@@ -1,0 +1,10 @@
+{
+    "UNDEFINED": {
+        "url": "",
+        "username": "test",
+        "password": "",
+        "token": "",
+        "retry_limit": 0,
+        "retry_delay": 0
+    }
+}

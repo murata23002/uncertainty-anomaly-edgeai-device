@@ -1,0 +1,16 @@
+{
+      "detector": {
+        "model": "./model/head_face_body_limb.tflite",
+        "num_threads": 3,
+        "max_results": 20,
+        "score_threshold": 0.6,
+        "enable_edgetpu" : false
+      },
+      "anomaly": {
+        "model": "./model/efficientnet-b0_float16_model.tflite",
+        "num_threads": 4,
+        "score_threshold": 0.6,
+        "enable_edgetpu" : false
+      }
+}
+    
